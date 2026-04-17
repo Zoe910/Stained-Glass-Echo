@@ -38,9 +38,13 @@ Multi-user Interaction: I aim to explore support for simultaneous interactions b
 
 # References 
 Gaudí, A. (2014). Gaudí: The Complete Works. Taschen. 
+
 Zerbst, R. (2002). Antoni Gaudí: 1852-1926: A Life Devoted to Architecture. Taschen.
+
 Ajuntament de Barcelona. (2015). The History of the Barcelona Pavement: Panot de Flor.
+
 Levin, G. (2006). Computer Vision for Artists and Designers.
+
 Music:https://www.bensound.com/royalty-free-music?tag[]=Cinematic&amp;amp;sort=relevance
 
 # Author
