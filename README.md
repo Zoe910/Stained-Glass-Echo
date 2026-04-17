@@ -45,6 +45,8 @@ Ajuntament de Barcelona. (2015). The History of the Barcelona Pavement: Panot de
 
 Levin, G. (2006). Computer Vision for Artists and Designers.
 
+Google Gemini. (2026). Gemini 3 Flash. [Large language model]. Available at: https://gemini.google.com/ (Accessed: 18 April 2026).
+
 Music:https://www.bensound.com/royalty-free-music?tag[]=Cinematic&amp;amp;sort=relevance
 
 # Author
